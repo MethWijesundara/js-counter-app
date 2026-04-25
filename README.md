@@ -19,7 +19,7 @@ A simple counter app built using HTML, CSS, and JavaScript. This Project demonst
 - CSS
 - JavaScript
 
-
+## Demo
 
 https://github.com/user-attachments/assets/0e189d41-3dbd-463b-af50-f1154d478a2e
 
