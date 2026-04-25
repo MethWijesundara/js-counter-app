@@ -1,0 +1,31 @@
+#count{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#btnContainer{
+    text-align: center;
+}
+
+.btn{
+    padding:10px 20px;
+    font-size: 1.5em;
+    color: rgb(140, 169, 236);
+    background-color: antiquewhite;
+    border-radius:10px;
+    font-weight: bold;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    cursor:pointer;
+    transition:background-color 0.25s;
+    transition:transform 0.25s
+}
+
+button:hover{
+    background-color: azure;
+}
+
+button:active{
+    transform: scale(0.97);
+}
